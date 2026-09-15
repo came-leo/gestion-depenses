@@ -20,7 +20,6 @@ Application Python en ligne de commande permettant de gérer ses dépenses perso
 gestion-depenses/
 |-- main.py
 |-- depenses.py
-|-- depenses.json
 |-- .gitignore
 `-- README.md
 ```
