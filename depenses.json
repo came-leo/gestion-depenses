@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "description": "taxi",
+        "montant": 2000.0,
+        "categorie": "transport",
+        "date": "14/09/2026 05:07"
+    },
+    {
+        "id": 2,
+        "description": "bus",
+        "montant": 400.0,
+        "categorie": "transport",
+        "date": "14/09/2026 05:07"
+    },
+    {
+        "id": 3,
+        "description": "pain",
+        "montant": 500.0,
+        "categorie": "alimentation",
+        "date": "13/09/2026 08:38"
+    },
+    {
+        "id": 4,
+        "description": "oeufs",
+        "montant": 300.0,
+        "categorie": "alimentation",
+        "date": "13/09/2026 08:39"
+    },
+    {
+        "description": "sucre",
+        "montant": 100.0,
+        "categorie": "alimentation",
+        "date": "13/09/2026 08:39"
+    },
+    {
+        "id": 5,
+        "description": "ecouteur",
+        "montant": 3000.0,
+        "categorie": "autre",
+        "date": "13/09/2026 08:39"
+    },
+    {
+        "id": 6,
+        "description": "cin\u00e9",
+        "montant": 2500.0,
+        "categorie": "autre",
+        "date": "13/09/2026 08:40"
+    }
+]
